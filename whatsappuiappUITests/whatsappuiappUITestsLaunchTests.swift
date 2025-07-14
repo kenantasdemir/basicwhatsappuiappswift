@@ -1,9 +1,4 @@
-//
-//  whatsappuiappUITestsLaunchTests.swift
-//  whatsappuiappUITests
-//
-//  Created by kenan on 7/3/25.
-//
+
 
 import XCTest
 

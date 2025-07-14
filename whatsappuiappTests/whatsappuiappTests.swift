@@ -1,9 +1,4 @@
-//
-//  whatsappuiappTests.swift
-//  whatsappuiappTests
-//
-//  Created by kenan on 7/3/25.
-//
+
 
 import Testing
 @testable import whatsappuiapp
